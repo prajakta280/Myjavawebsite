@@ -7,7 +7,6 @@
 <title>About page</title>
 </head>
 <body>
-<h1 style="background-color: RED;"><b>PRAJAKTA PRABHAKAR SHAHARE!</b></h1>
 Cloud engineer with over 2 years of experience in designing and implementing cloud systems looking
 to further my career.Effective team player with a desire to join a growing company using my skills.<br>
 Aspiring cloud engineer with a passion for AWS services and an eagerness to transition 
